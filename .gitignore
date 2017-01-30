@@ -5,7 +5,6 @@
 !*.cmake
 !*.md
 !*.txt
-!sdk/
 !sdk/README.md
 !src/
 !src/**/
